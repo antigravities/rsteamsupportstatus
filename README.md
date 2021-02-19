@@ -8,6 +8,8 @@ $GOPATH/bin/rsteamsupportstatus #output to status.html
 $GOPATH/bin/rsteamsupportstatus -output=/path/to/another/status.html #output to custom location
 ```
 
+Statistics information updates daily at midnight Pacific, so you'll probably want to execute this then.
+
 ## License
 ```
 rsteamsupportstatus
